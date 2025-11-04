@@ -12,4 +12,4 @@ Power BI | DAX | Power Query | Data Modeling | Data Visualization
 ## 📂 Files
 - 'Project.pbix' – Main Power BI dashboard
 - 'insurance_policies_data.csv' – Sample dataset
-- 'screenshots/' – Dashboard visuals
+- 'Screenshot/' – Dashboard visuals
